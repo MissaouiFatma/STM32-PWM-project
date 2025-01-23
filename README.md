@@ -1,4 +1,6 @@
 ### Project Description: STM32F446RE PWM Control for LED and Motor (Direction and Speed Control)
+![image](https://github.com/user-attachments/assets/fa6e0fbf-7786-48c8-85c4-6b71ee68549e)
+
 
 #### Overview:
 This project demonstrates the use of Pulse Width Modulation (PWM) on the STM32F446RE microcontroller to control both an LED and a DC motor. The PWM technique is used to vary the brightness of the LED and the speed of the motor. Additionally, the direction of the motor is controlled using GPIO pins configured as outputs.
@@ -55,6 +57,8 @@ Microcontrollers like the STM32 have built-in hardware timers that can generate 
 - **Power Supply**: Appropriate power supply for the motor and microcontroller.(i have just used my computer as a power supply!!!)
 
 #### Software Implementation:
+![image](https://github.com/user-attachments/assets/d3881928-0d56-4c7f-967c-a39bc22140b1)
+
 1. **PWM Configuration**:
    - Configure one of the STM32F446RE's timers (e.g., TIM2) in PWM mode.
    - Set the timer's prescaler and auto-reload register to achieve the desired PWM frequency.
