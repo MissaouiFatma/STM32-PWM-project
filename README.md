@@ -24,6 +24,9 @@ By adjusting the duty cycle, PWM can simulate varying voltage levels. For exampl
 A 25% duty cycle simulates a lower voltage.
 
 A 75% duty cycle simulates a higher voltage.
+![image](https://github.com/user-attachments/assets/606b649f-2a59-40e3-94e8-de2814b02aad)
+
+
 ### Why is PWM Important?
 # Efficiency: 
 PWM is highly efficient because it minimizes power loss by switching devices fully on or off, rather than operating them in a partially on state.
